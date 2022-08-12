@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://aecem6wlnrwrtwrb.node.ppio.cloud:17414/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/note9/7.3.0.0/cn/20190827203134/fd94b6a7/update.zip?f_ver=v1&max_age=7776000&r=JjAbOzBiYRkCJjU3GjYqHGApCiI5LWBVCyJoHAQlNQ4vNgpkBTQ3WwFgKTUZMmFWeWpcZXN2fhkHIWhoXWZhSXZ2WHlza38FUGAhPlRjOk8vc0A%2BMzwvQgFhPTMdITQKJSA8IAcLPyI0DjM2SA%3D%3D&ppiouid=62f5cbfb83c32f000133fea8758827d2&ppio_auth=62f5cbfb__62c95678_d94b4b6d1afc942f64b2b8e8f094397d
-  ROM_NAME: Flyme
+  ROM_URL: https://bigota.d.miui.com/V12.0.3.0.QCOCNXM/miui_GINKGO_V12.0.3.0.QCOCNXM_e41fdaaac9_10.0.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 

@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/sargo-ota-qq3a.200805.001-de147438.zip
-  ROM_NAME: Pixel
+  ROM_URL: https://kumisystems.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI8_V12.5.2.0.QEACNXM_v12-10.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 

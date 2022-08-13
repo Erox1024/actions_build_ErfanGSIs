@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://master.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI8SE_V10.3.1.0.PEBCNXM_v10-9.zip
+  ROM_URL: https://master.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI8SE_V10.3.1.0.PEBCNXM_v10-9.zip?viasf=1
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
